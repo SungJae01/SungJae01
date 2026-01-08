@@ -13,10 +13,4 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 
-
-
-## 🤔 Github Stats
-[![SungJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungJae01)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungJae01)](https://github.com/anuraghazra/github-readme-stats)
-
- 
+📌 "작렬하게 피어라 그리고 미련없이 시들어라"
