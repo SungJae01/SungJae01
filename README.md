@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Good%20to%20see%20you&fontColor=09122C)
 
-## CONTACT
+<h>반갑습니다. 프론트엔드 개발자를 넘어 풀스텍 개발자로 성장하고자하는 박성재입니다.<h/>
 
-📧이메일 : miamo0426@naver.com
+## CONTACT
+📧이메일 : miamo0426@naver.com <br/>
 📌주소 : 알마타길 58, 현대 2차 아파트
 
 
