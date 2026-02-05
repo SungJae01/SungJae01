@@ -2,10 +2,6 @@
 
 <h>반갑습니다. 프론트엔드 개발자를 넘어 풀스텍 개발자로 성장하고자하는 박성재입니다.<h/>
 
-## CONTACT
-📧이메일 : miamo0426@naver.com <br/>
-📌주소 : 알마타길 58, 현대 2차 아파트
-
 
 ## 🧱 Tech Stack
   ### Studying Language
